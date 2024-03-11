@@ -1,0 +1,19 @@
+{
+    "DeckName": "Example Set",
+
+    "DeckBy": "Lastation Community",
+
+    "Truths": [
+        "What is your favorite VRC game Map?",
+        "What is your opinion of player?",
+        "Do you know more than  people here?",
+        "Tell facts about youself.",
+        " who do you like here the most?"
+    ],
+    "Dares": [
+        "Mute yourself until next turn.",
+        "Sit next to <player>.",
+        "Eat  goldfish.",
+        "Let times."
+    ]
+}
