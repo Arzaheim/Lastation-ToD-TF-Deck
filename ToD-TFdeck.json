@@ -45,10 +45,7 @@
 	"What is the last TF you got off to (if any)?",
 	"If <player> asked you to do a lewd TF RP with them, would you say yes?",
 	"Would you rather TF <player>, or be TF'd by them?",
-	"Would you rather be <player>'s pet or master?",
-	
-		
-
+	"Would you rather be <player>'s pet or master?"
     ],
     "Dares": [
         "Clone an avatar of <player>'s choice.",
@@ -99,9 +96,6 @@
 	"Get on all fours. Until your next turn, you must act like an of <player>'s choice and may only make sounds appropriate for that animal",
 	"Close your eyes, spin around for 10 seconds, then open them. The player in front of you gets to choose your avatar.",
 	"Go around the room and tell everyone the sexiest thing about them/or their avatar.",
-	"Give the room a show and do your best TF victim impression. <player> gets to decide what you're turning into."
-	    
-	    
-	    
+	"Give the room a show and do your best TF victim impression. <player> gets to decide what you're turning into."    
     ]
 }
