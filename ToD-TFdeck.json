@@ -48,6 +48,8 @@
 	"Would you rather be <player>'s pet or master?",
 	"What's your TF hot take?",
 	"What would be your dream TF VRC feature,",
+	"Have you played an NSFW TF game? If so, which one(s)?",
+		
     ],
     "Dares": [
         "Clone an avatar of <player>'s choice.",
@@ -66,6 +68,11 @@
 	"Change into your newst favorited avatar.",
 	"Set your avatar to <player>'s height.",
 	"Everyone must clone <local>'s avatar.",
+	"Change into a creature or character from a franchise.",
+	"Change into your cutest avatar.",
+	"Clone <player>'s cutest avatar.",
+	"<player> chooses your avatar size.",
+	
 	"Play Rock Paper Scissors with <player>. Loser must clone an avatar of the winner's choice.",
 	"Change into a canine avatar (if none are available or you already are one, reroll).",
 	"Change into a feline avatar (if none are available or you already are one, reroll).",
@@ -97,6 +104,17 @@
 	"Get on all fours. Until your next turn, you must act like a creature of <player>'s choice and may only make sounds appropriate for that animal",
 	"Close your eyes, spin around for 10 seconds, then open them. The player in front of you gets to choose your avatar.",
 	"Go around the room and tell everyone the sexiest thing about them/or their avatar.",
-	"Give the room a show and do your best TF victim impression. <player> gets to decide what you're turning into."    
+	"Give the room a show and do your best TF victim impression. <player> gets to decide what you're turning into.",
+	"If comfortable, go up into the silent area with <player> until your next turn (you are both immune to other prompts until then and players reroll any prompts that specifically name either of you).",
+		"You can only moo like a cow until your next turn.",
+		"You can only bray like a donkey until your next turn.",
+		"You can only meow like a cat until your next turn.",
+		"You can only squawk and chirp until your next turn.",
+		"What does the fox say? You can only make fox noises until your next turn.",
+		"You can only make the noises of an animal of <player>'s choice until your next turn.",
+		"You can only make the noises of an animal of <player>'s choice until your next turn.",
+		"Time to lay down the Fox Law! Change into a fox avatar (we know you have one).",
+		"Max out your avatar's sliders (breasts, butt, hips, etc). If your avatar lacks these, reroll.",
     ]
 }
+
